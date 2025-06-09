@@ -26,8 +26,8 @@ Hi, I’m Greg! I have 15 years of hands-on coding experience, learning, and bui
 
 ## 🚧 Featured Project
 
-- **Metronome** (Swiss-army knife for sorting, converting, and tagging your local music library)
-- **Scaffold** (Quickly generate production ready .env files using a markdown-annotated template files)
+- **[Metronome](https://github.com/gregvogt/Metronome)** (Swiss-army knife for sorting, converting, and tagging your local music library)
+- **[Scaffold](https://github.com/gregvogt/Scaffold)** (Quickly generate production ready .env files using a markdown-annotated template files)
 
 ---
 
