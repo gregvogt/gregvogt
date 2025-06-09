@@ -3,6 +3,7 @@
 <div align="center">
 Hi, I’m Greg! I have 15 years of hands-on coding experience, learning, and building in nearly every major programming language. I thrive on new challenges, am a quick study, and love picking up new skills whenever a project calls for it.
 </div>
+
 ---
 
 ## 🛠️ Languages & Skills
