@@ -1,47 +1,36 @@
-# 💻 Self-Taught/Self-Deprecating • Always up for a task that blurs the line between genius and madness
-
-<div align="center">
-Hi, I’m Greg! I have 15 years of hands-on coding experience, learning, and building in nearly every major programming language. I thrive on new challenges, am a quick study, and love picking up new skills whenever a project calls for it.
-</div>
-
+# Greg Vogt
+ 
+**Building the systems you don't see.**
+ 
+Backend developer and tooling specialist. I work on the parts of software that run quietly in the background: session infrastructure, automation pipelines, framework internals, environment tooling. The unglamorous work that everything else depends on.
+ 
+Self-taught. Self-sufficient. Semi self-aware.
+ 
 ---
-
-## 🛠️ Languages & Skills
-
-**Proficient:**  
-- PHP
-- JavaScript
-- Python
-- Bash
-- PowerShell
-
-**Also familiar with:**  
-- CSS
-- Go (Golang)
-- C
-- ASM
-- Lua
-
+ 
+## What I work with
+ 
+**Primary:** PHP, Python, PowerShell, Bash, JavaScript
+ 
+**Also familiar with:** Go, C, ASM, Lua, CSS
+ 
 ---
-
-## 🚧 Featured Project
-
-- **[Metronome](https://github.com/gregvogt/Metronome)** (Swiss-army knife for sorting, converting, and tagging your local music library)
-- **[Scaffold](https://github.com/gregvogt/Scaffold)** (Quickly generate production ready .env files using a markdown-annotated template files)
-
+ 
+## Projects
+ 
+**[Scaffold](https://github.com/gregvogt/Scaffold)** — Generates production-ready `.env` files from Markdown-annotated templates. Interactive prompts, regex validation, secure random generation for secrets. Stable and self-contained.
+ 
+**[Metronome](https://github.com/gregvogt/Metronome)** — Music library organizer built around MusicBrainz fingerprinting. Normalizes folder structure, populates tags, handles format conversion and bitrate targeting.
+ 
+**PHP_Sessions** *(coming soon)* — A PHP session manager rebuilt from first principles. SQL and disk failover, OpenSSL/Sodium encryption, nonce and key distribution to the client so a data breach can't compromise active sessions.
+ 
+**Redux** *(coming soon)* — A lightweight PHP framework with one design goal: give you the structural pieces you need and get out of your way.
+ 
 ---
-
-## 📫 Contact & Links
-
-- Personal site: [https://gregvogt.net/](https://gregvogt.net/)
-- Email: [contact@gregvogt.net](mailto:contact@gregvogt.net)
----
-
-## 🧑‍💻 Hobbies
-
-Coding is my passion—and my primary hobby. If I’m not working on a project, I’m learning a new language or tinkering with code.
-
----
-
-> **Available for work!**  
-> If you’re looking for someone who can quickly adapt, learn, contribute across tech stacks, and isn't afraid of bugs that keep you up at night, let’s connect.
+ 
+## Available for work
+ 
+I take on backend and tooling projects for small teams and founders who need someone to own the server-side work without hand-holding. If something in your stack is messier than it should be, that's usually where I start.
+ 
+[gregvogt.net](https://gregvogt.net) · [contact@gregvogt.net](mailto:contact@gregvogt.net)
+ 
