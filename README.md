@@ -3,9 +3,7 @@
 **Building the systems you don't see.**
  
 Backend developer and tooling specialist. I work on the parts of software that run quietly in the background: session infrastructure, automation pipelines, framework internals, environment tooling. The unglamorous work that everything else depends on.
- 
-Self-taught. Self-sufficient. Semi self-aware.
- 
+
 ---
  
 ## What I work with
